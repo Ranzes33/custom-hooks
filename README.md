@@ -1,2 +1,3 @@
-# custom-hooks
-Hooks personalizados aprendidos en el curso de React
+# Custom Hooks
+
+Repositorio de custom hooks
